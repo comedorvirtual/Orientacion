@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Orientacion</string>
+    <string name="orientation">Orientacion</string>
+    <string name="angle_x">Ángulo X</string>
+    <string name="angle_y">Ángulo Y</string>
+    <string name="angle_z">Ángulo Z</string>
+</resources>
